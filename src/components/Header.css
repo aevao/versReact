@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+  height: 800px;
+  background-color: #7c44f1;
+}
+
+.header_title {
+  color: #fed0da;
+  font-size: 104px;
+}
