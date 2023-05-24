@@ -1,1 +1,57 @@
+.footer{
+    width: 100%;
+    height: 216px;
+    background-color: #7C44F1;
+}
 
+.footer__content{
+    display: flex;
+    width: 60%;
+    padding-top: 3%;
+    padding-left: 3%;
+    justify-content: space-between;
+}
+
+.googleback{
+    display: flex;
+    width: 240px;
+    height: 61px;
+    background-color: #280F5B;
+    border-radius: 16px;
+    justify-content: space-around;
+
+}
+.rating_content{
+    display: flex;
+}
+.googl_logo{
+    width: 30px;
+    padding: 5%;
+}
+.rating_stars{
+    width: 100%;
+    padding: 5%;
+    margin: 0;
+}
+.rating-value{
+    color: #fff;
+    margin: 0;
+    padding-top: 5%;
+}
+
+.rating_content{
+    margin: 0;
+}
+.review{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.footer_desk{
+    color: #fff;
+    font-size: 16px;
+    padding-bottom: 8%;
+    cursor: pointer;
+}
